@@ -11,6 +11,6 @@ class Personne:
         print(f"je m'appelle {self.nom}, {self.prenom} et j'ai {self.age} ans.")
 
  # Criação de uma instancia da Classe Personne
-personne1=Personne("Lima", "Priscila", 34)
+personne1=Personne("Lunaria", "Luna", 34)
 
 personne1.se_presente()
